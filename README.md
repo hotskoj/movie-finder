@@ -1,7 +1,3 @@
-Here's a README template for your Movie Finder application:
-
----
-
 # 🎬 Movie Finder
 
 Movie Finder is a web application that allows users to search for movies and TV shows by name and get detailed information about each title. Built using JavaScript, Node.js, Express, React, and Redux, this app offers a smooth and interactive experience for film and series enthusiasts looking to explore information on their favorite shows and movies.
