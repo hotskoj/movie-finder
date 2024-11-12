@@ -1,0 +1,16 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.home {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.plot {
+    font-size: 15px;
+}
