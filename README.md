@@ -70,7 +70,17 @@ To get a local copy up and running, follow these steps.
 
 This application uses [OMDb API](https://www.omdbapi.com/) for fetching movie and TV show data.
 
-## 📬 Contact
+## Contributing
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)  
-**Project Repository** - [https://github.com/yourusername/movie-finder](https://github.com/yourusername/movie-finder)
+We welcome contributions to the project! If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/your-feature`).
+6. Open a Pull Request.
+
+---
+
+Thank you for checking out this Movie Finder App! If you have any questions or suggestions, feel free to open an issue or submit a pull request.
